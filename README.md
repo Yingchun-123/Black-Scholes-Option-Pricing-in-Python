@@ -1,5 +1,6 @@
 # Black–Scholes Option Pricing in Python
 **3-minute English project video** <https://youtu.be/GRf9wRx2GD4>
+
 ##by Yingchun Song, Tettnang Germany
 
 This project implements a complete European option pricer using analytical, stochastic and numerical methods.  
