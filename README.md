@@ -1,14 +1,14 @@
 # Black–Scholes Option Pricing in Python
-##vido demo<https://youtu.be/GRf9wRx2GD4>
+**3-minute Englisch project vido** <https://youtu.be/GRf9wRx2GD4>
 #### by Yingchun Song, Tettnang Germany
 #### Solving BS PDE via 3 Methods
-
+A complete implementation of a **European option pricer** using analytical, stochastic and numerical methods.  
+The project compares **accuracy, stability and computational performance** across three independent approaches to the Black–Scholes model.
 ---
 
 #### 📘 Description
 
-This project is a **complete implementation of a European option pricer** based on the **Black–Scholes model**.
-It aims to demonstrate analytical, stochastic, and numerical approaches to solving the same financial problem—determining the fair price of a call or put option at a given time.
+This project implements three different methods to price European call and put options:
 
 Specifically, the program prices European-style options using **three independent methods**:
 
