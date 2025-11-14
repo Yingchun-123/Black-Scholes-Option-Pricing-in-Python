@@ -17,7 +17,7 @@ This project implements three different methods to price European call and put o
 
 
 
-The project is written entirely in **Python**, follows CS50’s final project structure, and includes complete unit tests using `pytest`.
+The project is written entirely in Python, follows CS50’s final project structure, and includes complete unit tests using `pytest`.
 
 ```
 ## 🧱 Project Structure
