@@ -11,8 +11,6 @@ It compares accuracy, stability and computational performance across three indep
 
 This project implements three different methods to price European call and put options:
 
-Specifically, the program prices European-style options using **three independent methods**:
-
 1. **Closed-form analytical solution** — the exact Black–Scholes formula.
 2. **Monte Carlo simulation** — a stochastic estimation by simulating many potential future asset prices.
 3. **Finite Difference Method (FDM)** — a numerical solution to the Black–Scholes partial differential equation using a Crank–Nicolson scheme with Scharfetter–Gummel stabilization.
