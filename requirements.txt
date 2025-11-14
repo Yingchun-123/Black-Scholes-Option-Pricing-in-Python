@@ -1,0 +1,7 @@
+# Python dependencies required for this project
+
+# Numerical computing (used in Finite Difference Method)
+numpy
+
+# Unit testing framework (used for test_project.py,test_closed_form.py, test_fdm_price.py and test_mc_price.py)
+pytest
