@@ -1,10 +1,10 @@
 # Black–Scholes Option Pricing in Python
-**3-minute Englisch project vido** <https://youtu.be/GRf9wRx2GD4>
-#### by Yingchun Song, Tettnang Germany
-#### Solving BS PDE via 3 Methods
-A complete implementation of a **European option pricer** using analytical, stochastic and numerical methods.  
-The project compares **accuracy, stability and computational performance** across three independent approaches to the Black–Scholes model.
----
+**3-minute English project video** <https://youtu.be/GRf9wRx2GD4>
+##by Yingchun Song, Tettnang Germany
+
+This project implements a complete European option pricer using analytical, stochastic and numerical methods.  
+It compares accuracy, stability and computational performance across three independent approaches to the Black–Scholes model.
+
 
 #### 📘 Description
 
