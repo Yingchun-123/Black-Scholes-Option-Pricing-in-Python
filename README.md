@@ -64,15 +64,7 @@ price_fdm(Call, N=400, M=800)
 
 ---
 
-## 🧮 Example Output
 
-| Method | Call | Put |
-|--------|------:|----:|
-| Closed-form | 10.4506 | 5.5735 |
-| Monte Carlo | ≈10.47 | ≈5.58 |
-| FDM | 10.4512 | 5.5756 |
-
----
 
 ## ⚙️ Requirements
 
